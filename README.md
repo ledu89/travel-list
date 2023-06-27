@@ -1,3 +1,4 @@
+![travel-list](https://github.com/ledu89/travel-list/assets/102481716/c9e1d1ae-17e7-4e92-bffe-084bf4fa92a1)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
